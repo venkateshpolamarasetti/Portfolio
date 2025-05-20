@@ -9173,6 +9173,10 @@ footer a {
   color: var(--secondary-color);
 }
 
+.filters a {
+  color: black;
+}
+
 .card-project {
   width: 350px;
   height: 100%;
