@@ -9109,7 +9109,7 @@ footer a {
 
 .hero-description p {
   color: var(--secondary-color);
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   line-height: 1.5;
 }
 .hero-description h1 {
@@ -9150,7 +9150,7 @@ footer a {
 
 .card-services {
   width: 250px;
-  height: auto;
+  height: 100%;
   background-color: rgb(221, 221, 221);
   border-radius: 10px;
 }
