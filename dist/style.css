@@ -9161,6 +9161,13 @@ footer a {
   line-height: 1.5;
 }
 
+.skills h2 {
+  color: var(--secondary-color);
+}
+.skills p {
+  color: var(--secondary-color);
+}
+
 .projects h2,
 .projects p {
   color: var(--secondary-color);
